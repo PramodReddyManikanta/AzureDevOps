@@ -1,3 +1,5 @@
 intro to git hub
- Lecture 2 -11-11-2024
+ Lecture 2    -11-11-2024
+
+installation and creating repo
 
