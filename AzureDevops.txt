@@ -3,3 +3,5 @@ intro to git hub
 
 installation and creating repo
 
+push code from local device to repo(github)
+
